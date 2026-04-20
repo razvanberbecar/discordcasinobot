@@ -1,2 +1,8 @@
 node_modules
 .env
+ADMIN_COMMANDS_AND_NOTES.md
+discould.config
+data
+index.js
+package-lock.json
+package.json
